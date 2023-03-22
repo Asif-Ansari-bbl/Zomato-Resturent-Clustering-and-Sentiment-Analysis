@@ -11,3 +11,38 @@ This could help in clustering the restaurants into segments. Also the data has v
 
 Data could be used for sentiment analysis. Also the metadata of reviewers can be used for identifying the critics in the industry.
 
+
+There are two dataset provided 1st one have information about the Resturent and 2nd one Review of the resturent.
+
+All the Variables persent in Zomato Restaurant dataset 
+
+**1. Name :** Name of Restaurants
+
+**2. Links :** URL Links of Restaurants
+
+**3. Cost :** Per person estimated Cost for Dinning
+
+**4. Collection :** Tagging of Restaurants w.r.t. Zomato categories
+
+**5. Cuisines :** Cuisines(Type of food) served by Restaurants
+
+**6. Timings :** Restaurant Timings
+
+
+
+
+All the Variables persent in Zomato Review Dataset
+
+**1. Restaurant :** Name of the Restaurant
+
+**2. Reviewer :** Name of the Reviewer
+
+**3. Review :** Review Text
+
+**4. Rating :** Rating Provided by Reviewer
+
+**5. MetaData :** Reviewer Metadata - No. of Reviews and followers
+
+**6. Time :** Date and Time of Review
+
+**7. Pictures :** No. of pictures posted with review
